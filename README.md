@@ -1,6 +1,7 @@
-# NxtBuild
+# Novastack-ai-builder
 
-NxtBuild is an AI-powered web app builder that turns plain-English prompts into working web app code. The project includes a React + Vite frontend and an Express + MongoDB backend that connects to Gemini for code generation.
+
+Novastack is an AI-powered web app builder that turns plain-English prompts into working web app code. The project includes a React + Vite frontend and an Express + MongoDB backend that connects to Gemini for code generation.
 
 ## What It Does
 
